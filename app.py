@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import streamlit.components.v1 as components
 
@@ -652,4 +651,3 @@ function checkEmptyDesktop() {
 </body>
 </html>
 """, height=900, scrolling=False)
-```
